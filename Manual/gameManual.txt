@@ -1,0 +1,22 @@
+Game Manual
+
+Welcome to Empire Escape!
+
+"Empire Escape" takes you on a journey in an alternate timeline, far in the future where many of the world’s empires continue to thrive.  You will be travelling through different levels which are all themed towards various historical eras eventually making your way to the final boss. 
+
+Your goal is to survive, collect loot and defeat the enemies which will stand in your way. In order to continue your journey, it’s essential that you don’t get defeated and reach the ladder to progress to the next floor. 
+
+
+Controls 
+
+WASD Keys       - Move the character
+F Key           - Interact with objects 
+X Key           - Place Bomb
+C Key           - Place Barrel. Barrels act like bombs but only explode when interacted with or damaged 
+Left Click      - Execute the ranged attack
+Right Click     - Execute the melee attack
+Hold Down Click - Spam the attack
+1, 2, 3 Keys    - Select modifier wanted
+Mouse           - Aim in direction being pointed at
+
+What you choose to do will determine your fate. Good luck and have fun! 

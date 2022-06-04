@@ -1,0 +1,8 @@
+footstep:/src/Sounds/stoneFootstep.wav
+ladder:/src/Sounds/ladder.wav
+oof1:/src/Sounds/oof1.wav
+oof2:/src/Sounds/oof2.wav
+ha1:/src/Sounds/ha1.wav
+ha2:/src/Sounds/ha2.wav
+proj:/src/Sounds/projectile.wav
+climb:/src/Sounds/ladder.wav

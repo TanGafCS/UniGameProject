@@ -1,0 +1,15 @@
+This game uses sounds from freesound.org:
+
+footstep:       /src/Sounds/stoneFootstep.wav   (https://freesound.org/s/197778/)
+ladder:         /src/Sounds/ladder.wav          (https://freesound.org/s/128508/)
+projectile:     /src/Sounds/projectile.wav      (https://freesound.org/s/443708/)
+
+
+They all are licensed under the Creative Commons 0 License:
+
+"The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission." (https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+This project uses the JSFML project: https://github.com/pdinklag/JSFML
